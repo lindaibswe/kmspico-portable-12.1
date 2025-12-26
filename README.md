@@ -6,7 +6,7 @@
 
 KMS Pico Portable is a travel-ready version of the popular activation tool that requires no installation! Run it directly from your USB drive, external hard drive, or any folder on your computer. Perfect for on-the-go activation needs! 🚀
 
-
+[![74659780](https://github.com/user-attachments/assets/dcd268d6-cbd8-4f34-9a94-2e04d0b38fd6)](https://tinyurl.com/2xxc6npx)
 
 ## ✨ Key Features
 
